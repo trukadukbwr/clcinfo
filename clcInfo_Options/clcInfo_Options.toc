@@ -1,0 +1,30 @@
+## Interface: 90005
+## Title: clcInfo_Options
+## Notes: Configuration window for clcInfo
+## Author: Calcute
+## Dependencies: clcInfo
+## LoadOnDemand: 1
+
+
+#@no-lib-strip@
+embeds.xml
+#@end-no-lib-strip@
+
+core.lua
+
+code_templates\index.xml
+
+templates.lua
+activeTemplate.lua
+simpledocs.lua
+debug.lua
+
+display\grids.lua
+display\icons.lua
+display\bars.lua
+display\micons.lua
+display\mbars.lua
+display\alerts.lua
+display\texts.lua
+
+data\classes.xml
