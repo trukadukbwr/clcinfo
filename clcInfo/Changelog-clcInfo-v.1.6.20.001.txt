@@ -1,0 +1,26 @@
+------------------------------------------------------------------------
+r327 | abija | 2015-07-02 16:02:05 +0000 (Thu, 02 Jul 2015) | 1 line
+Changed paths:
+   A /tags/v.1.6.20.001 (from /trunk:326)
+
+Tagging as v.1.6.20.001
+------------------------------------------------------------------------
+r326 | abija | 2015-06-27 06:10:09 +0000 (Sat, 27 Jun 2015) | 1 line
+Changed paths:
+   M /trunk/data/global_icon.lua
+
+- hopefuly fixed range check issue
+------------------------------------------------------------------------
+r325 | abija | 2015-06-27 05:25:03 +0000 (Sat, 27 Jun 2015) | 1 line
+Changed paths:
+   M /trunk/clcInfo.toc
+   M /trunk/clcInfo_Options/clcInfo_Options.toc
+
+## Interface: 60200
+------------------------------------------------------------------------
+r324 | abija | 2015-03-17 16:11:27 +0000 (Tue, 17 Mar 2015) | 1 line
+Changed paths:
+   M /trunk/data/global_icon.lua
+
+- more IconSpell fixes
+------------------------------------------------------------------------
